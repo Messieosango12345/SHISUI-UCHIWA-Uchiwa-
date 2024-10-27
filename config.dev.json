@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "messieosango33@gmail.com",
+    "password": "0897520168messie",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-  "100092277325670" ,
+  "61564382117276" ,
     "" 
   ],
   "whiteListMode": {
@@ -25,8 +25,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "༄•𝖨David bot•༄",
-  "prefix": "+",
+  "nickNameBot": "༒☆𝑆𝐴𝑇𝑂𝑅𝑈 ✫༄𝐺𝑂𝐽𝑂 ☆༄𝔅𝔒𝑇༒",
+  "prefix": "€",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -37,7 +37,7 @@
   "timeZone": "Africa/Abidjan",
   "credentials": {
     "gmailAccount": {
-      "email": "",
+      "email": "messieosango33@gmail.com",
       "clientId": "407168939339-ni7uvp8054bpnht4280n6d3no4qrf3mv.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//041Aj0DBzlyxuCgYIARAAGAQSNwF-L9IrSJFfXahDmIC5CaNNthQwg0yT8ZrFaUUofZBR13qsh-nNBLi7_4LZMlZ00F8AiWo6Moo",
