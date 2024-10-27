@@ -45,7 +45,7 @@ module.exports = {
 			confirmThisThread: "Please react to this message to confirm change prefix in your box chat",
 			successGlobal: "Changed prefix of system bot to: %1",
 			successThisThread: "Changed prefix in your box chat to: %1",
-			myPrefix: "𝐏𝐑𝐄𝐅𝐈𝐗 𝐈𝐓𝐀𝐂𝐇𝐈🍀:☞ [ %1 ] ________________\n𝐈𝐓𝐀𝐂𝐇𝐈 𝑺𝒀𝑺𝑻𝑬𝑴:☞[ %2 ] ____________________\n  𝐈𝐓𝐀𝐂𝐇𝐈💥𝐔𝐂𝐇𝐈𝐖𝐀\n_______________\n \n𝗧𝗮𝗽𝗲 +𝗵𝗲𝗹𝗽 𝗽𝗼𝘂𝗿 𝗮𝘃𝗼𝗶𝗿 𝗹𝗮 𝗹𝗶𝘀𝘁𝗲 𝗱𝗲 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀"
+			myPrefix: "𝐏𝐑𝐄𝐅𝐈𝐗 satoru 🍀:☞ [ %1 ] ________________\ngojo satoru:☞[ %2 ] ____________________\n  SATORU Gojo\n_______________\n \n𝗧𝗮𝗽𝗲 €𝗵𝗲𝗹𝗽 𝗽𝗼𝘂𝗿 𝗮𝘃𝗼𝗶𝗿 𝗹𝗮 𝗹𝗶𝘀𝘁𝗲 𝗱𝗲 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀"
 		}
 	},
 
@@ -109,3 +109,4 @@ module.exports = {
 			};
 	}
 };
+		
